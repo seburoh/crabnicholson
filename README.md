@@ -1,3 +1,7 @@
+# ARCHIVED PROJECT
+
+This is a previously completed academic project which is not currently supported.
+
 # CRAB NICHOLSON'S EXTREME SLEEPOVER
 
 This is a text adventure game where you get to roam around CRAB NICHOLSON'S house and prep for a night of movie watching with the big crab himself! Run, jump, and climb your way into his house so you can have an EXTREME SLEEPOVER to call your own!
